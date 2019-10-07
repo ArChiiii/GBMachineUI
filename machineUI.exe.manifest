@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="machineUI.exe" size="341472">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="machineUI.exe" size="342496">
       <assemblyIdentity name="machineUI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>b7aByA8l3kxm1SSYYa5lIVrR7VAr23yGc3Mf2ziSS2M=</dsig:DigestValue>
+        <dsig:DigestValue>oRnzAY8IyPdD6RuhfVcqXI05PLiCAQDRuzKDL+Cobdc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
